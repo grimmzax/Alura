@@ -6,3 +6,5 @@ Este repositório contém minhas anotações, exercícios e projetos desenvolvid
 ## 🧠 Conteúdos
 
 Organizados por curso/tópico:
+
+📂 Imersão Dados com Python
